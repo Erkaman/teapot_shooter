@@ -2,6 +2,10 @@
 
 ![Animated](anim.gif)
 
+For a better quality video, click below:
+
+[![Result](http://img.youtube.com/vi/FlJ35Qzpke8/0.jpg)](https://www.youtube.com/watch?v=FlJ35Qzpke8)
+
 A small demo application that implements an Augmented Reality teapot shooter
 with Unity and ARCore. You can use this application to shoot teapots in a real room.
 You must wait a little until it has tracked the room, and then you can start
@@ -16,3 +20,4 @@ the planes tracked by ARCore, and these are used by the Unity physics engine
 for the collision between the teapots and the planes.
 
 A compiled apk is provided as `teapot_shooter.apk`.
+

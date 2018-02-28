@@ -1,0 +1,9 @@
+Debug/
+Library/
+obj/
+out_Data/
+Temp/
+*.sln
+*.csproj
+*.dll
+.vs/
